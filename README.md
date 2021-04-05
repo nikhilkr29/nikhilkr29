@@ -9,5 +9,8 @@ I am Open to Work and you can connect with me at [Linkedin](https://www.linkedin
 - 💬 Ask me about CPP/DSA/ML
 - 📫 How to reach me: [email](mailto:nkumar2998@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Chai Lover :coffee: 
+- ⚡ Fun fact: I am a Chai Lover :coffee: 
 
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr29&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkr29)](https://github.com/anuraghazra/github-readme-stats)
