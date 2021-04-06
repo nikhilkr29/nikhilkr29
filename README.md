@@ -13,4 +13,4 @@ I am Open to Work and you can connect with me at [Linkedin](https://www.linkedin
 
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkr29&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkr29)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkr29&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
