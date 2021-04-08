@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Nikhil Kumar**. I am currently a 3rd year undergraduate pursuing my Bachelor of Technology in Electronics and Communication Engineering from *National Institute of Technology,Patna.* I generally prefer to code in C++ and I like to participate in various competitive programming contests  at different online platforms like Codeforces and Codechef.I have a strong grasp on Data Structures and Algorithms and currently I am giving most of my time in learning the same.I also like to develop differnt Machine Learning Models and explore various Machine Learning Algorithms.
+I am **Nikhil Kumar**. I am currently a 3rd year undergraduate pursuing my Bachelor of Technology in Electronics and Communication Engineering from *National Institute of Technology,Patna.* I generally prefer to code in C++ and I like to participate in various competitive programming contests that are held at different online platforms like Codeforces and Codechef.I have a strong grasp on Data Structures and Algorithms and currently I am giving most of my time in learning the same.I also like to develop differnt Machine Learning Models and explore various Machine Learning Algorithms.
 <br/>
 I am Open to Work and you can connect with me at [Linkedin](https://www.linkedin.com/in/nikhil-kumar-97444a1a2/) 
 
